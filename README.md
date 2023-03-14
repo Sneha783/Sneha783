@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sneha783
 - 👀 I’m interested in C++, Pyython, Qt
-- 🌱 I’m currently learning QML
+- 🌱 I’m currently learning QML and AOSP for AUtomotive
 - 💞️ I’m looking to collaborate on Qt projects
 - 📫 How to reach me snehashinde921@gmail.com
 
